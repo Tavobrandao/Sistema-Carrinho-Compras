@@ -77,3 +77,15 @@ python manage.py runserver
 ```
 
 Acesse o sistema em http://127.0.0.1:8000/admin/.
+
+### 5. Fazer Login no Painel de Administração
+
+Username:
+```bash
+carrinho
+```
+
+Senha:
+```bash
+123
+```
